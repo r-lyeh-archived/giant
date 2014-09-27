@@ -6,7 +6,7 @@ giant
 - Giant is tiny. Header-only library.
 - Giant is cross-platform. Compiles under MSVC/GCC. Works on Windows/Linux.
 - Giant has no dependencies.
-- Giant is MIT licensed.
+- Giant is BOOST licensed.
 
 ### API
 - `const bool giant::is_little`
